@@ -1,2 +1,2 @@
-# BMP-Image-Reader-Writer
+# EzBMP
 Read and write BMP images.
