@@ -18,6 +18,7 @@ bmp1.read_bmp("8bit_1024_example.bmp");
 int error = bmp1.create_bmp("copy_example1.bmp", false);
 ```
 Example 8 bit image used with no pixel padding: 
+![Alt text](../master/Example BMPs/8bit_1024_example.bmp?raw=true?raw=true "")
 
 ---
 
@@ -34,6 +35,7 @@ bmp2.read_bmp("24bit_373_517_example.bmp");
 int error = bmp2.create_bmp("copy_example2.bmp", true);
 ```
 Example 24 bit image used with pixel padding:
+![Alt text](../master/Example BMPs/24bit_373_517_example.bmp?raw=true?raw=true "")
 
 
 
